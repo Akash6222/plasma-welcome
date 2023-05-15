@@ -573,7 +573,7 @@ msgstr "System Settings"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to KDE Plasma!"
+msgid "Welcome to Tcet Linux!"
 msgstr "Selamat datang di KDE Plasma!"
 
 #: src/contents/ui/pages/Welcome.qml:16

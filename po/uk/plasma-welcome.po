@@ -593,7 +593,7 @@ msgstr "Системні параметри"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to KDE Plasma!"
+msgid "Welcome to Tcet Linux!"
 msgstr "Вітаємо у Плазмі KDE!"
 
 #: src/contents/ui/pages/Welcome.qml:16
