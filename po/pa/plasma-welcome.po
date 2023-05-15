@@ -495,7 +495,7 @@ msgstr "ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to KDE Plasma!"
+msgid "Welcome to Tcet Linux!"
 msgstr ""
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -528,7 +528,7 @@ msgstr ""
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to KDE Plasma"
+msgid "Welcome to Tcet Linux"
 msgstr ""
 
 #: src/main.cpp:57

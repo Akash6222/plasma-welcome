@@ -577,7 +577,7 @@ msgstr "Järjestelmäasetukset"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to KDE Plasma!"
+msgid "Welcome to Tcet Linux!"
 msgstr "Tervetuloa KDE Plasmaan!"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -614,7 +614,7 @@ msgstr "Tervetulosovellus KDE Plasmaan"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to KDE Plasma"
+msgid "Welcome to Tcet Linux"
 msgstr "Tervetuloa KDE Plasmaan"
 
 #: src/main.cpp:57

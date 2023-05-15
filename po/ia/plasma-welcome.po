@@ -583,7 +583,7 @@ msgstr "Preferentias de systema"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to KDE Plasma!"
+msgid "Welcome to Tcet Linux!"
 msgstr "Benvenite a KDE Plasma!"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -621,7 +621,7 @@ msgstr "Un app de benvenite per KDE PLasma"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to KDE Plasma"
+msgid "Welcome to Tcet Linux"
 msgstr "Benvenite a KDE Plasma"
 
 #: src/main.cpp:57

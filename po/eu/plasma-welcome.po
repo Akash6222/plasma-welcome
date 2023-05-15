@@ -589,7 +589,7 @@ msgstr "Sistemaren ezarpenak"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to KDE Plasma!"
+msgid "Welcome to Tcet Linux!"
 msgstr "Ongietorri KDE Plasmara!"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -627,7 +627,7 @@ msgstr "KDE Plamara ongietorria emateko aplikazio bat"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to KDE Plasma"
+msgid "Welcome to Tcet Linux"
 msgstr "Ongietorri KDE Plasmara"
 
 #: src/main.cpp:57
