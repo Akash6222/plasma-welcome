@@ -19,8 +19,8 @@ GenericPage {
         Kirigami.UrlButton {
             id: link
             Layout.topMargin: Kirigami.Units.largeSpacing
-            text: i18nc("@action:button", "Learn more about the KDE community")
-            url: "https://community.kde.org/Welcome_to_KDE?source=tcet-welcome"
+            text: i18nc("@action:button", "Learn more about the Tcet Linux community")
+            url: "https://opensource.tcetmumbai.in/docs/projects/tcet-linux/about-tcet-linux"
         }
     ]
 
