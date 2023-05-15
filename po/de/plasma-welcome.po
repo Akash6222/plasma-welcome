@@ -603,10 +603,9 @@ msgstr "Willkommen zu KDE Plasma!"
 #, kde-kuit-format
 msgctxt "@info:usagetip"
 msgid ""
-"Plasma is a free and open-source desktop environment created by KDE, an "
-"international software community of volunteers. The Plasma desktop "
-"environment is simple by default for a smooth experience, but powerful when "
-"needed to help you really get things done. We hope you love it!"
+"TCET Linux is GNU/Linux distribution, based on Arch Linux built for "
+"enhancing college infrastructure and promoting Linux in software "
+"engineering education "
 msgstr ""
 "Plasma ist eine von KDE, einer internationalen Gemeinschaft von "
 "Freiwilligen, geschaffene freie Open-Source-Arbeitsumgebung. Die Plasma-"
@@ -617,13 +616,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the KDE community"
+msgid "Learn more about the Tcet Linux community"
 msgstr "Erfahren Sie mehr über die KDE-Gemeinschaft"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The KDE mascot Konqi welcomes you to the KDE community!"
+msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!!"
 msgstr "Das KDE-Maskottchen Konqi begrüßt Sie in der KDE-Gemeinschaft!"
 
 #: src/main.cpp:44

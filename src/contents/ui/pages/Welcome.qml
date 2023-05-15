@@ -19,8 +19,8 @@ GenericPage {
         Kirigami.UrlButton {
             id: link
             Layout.topMargin: Kirigami.Units.largeSpacing
-            text: i18nc("@action:button", "Learn more about the KDE community")
-            url: "https://community.kde.org/Welcome_to_KDE?source=tcet-welcome"
+            text: i18nc("@action:button", "Learn more about the Tcet Linux community")
+            url: "https://opensource.tcetmumbai.in/docs/projects/tcet-linux/about-tcet-linux"
         }
     ]
 
@@ -36,7 +36,7 @@ GenericPage {
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.top: parent.bottom
             width: Math.round(parent.width * 0.75)
-            text: i18nc("@info", "The KDE mascot Konqi welcomes you to the KDE community!")
+            text: i18nc("@info", "The Tcet Open Source welcomes you to the Tcet Open Source community!!")
             wrapMode: Text.Wrap
             horizontalAlignment: Text.AlignHCenter
         }
