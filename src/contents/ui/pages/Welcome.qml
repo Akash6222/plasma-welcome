@@ -12,15 +12,15 @@ import org.kde.kirigami 2.15 as Kirigami
 import org.kde.tcet.welcome 1.0
 
 GenericPage {
-    heading: i18nc("@title", "Welcome to Tcet Linux!")
+    heading: i18nc("@title", "Welcome to KDE Plasma!")
     description: xi18nc("@info:usagetip", "Plasma is a free and open-source desktop environment created by KDE, an international software community of volunteers. The Plasma desktop environment is simple by default for a smooth experience, but powerful when needed to help you really get things done. We hope you love it!")
 
     topContent: [
         Kirigami.UrlButton {
             id: link
             Layout.topMargin: Kirigami.Units.largeSpacing
-            text: i18nc("@action:button", "Learn more about the Tcet Linux community")
-            url: "https://opensource.tcetmumbai.in/docs/projects/tcet-linux/about-tcet-linux"
+            text: i18nc("@action:button", "Learn more about the KDE community")
+            url: "https://community.kde.org/Welcome_to_KDE?source=tcet-welcome"
         }
     ]
 
@@ -36,7 +36,7 @@ GenericPage {
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.top: parent.bottom
             width: Math.round(parent.width * 0.75)
-            text: i18nc("@info", "The Tcet Open Source welcomes you to the Tcet Open Source community!!")
+            text: i18nc("@info", "The KDE mascot Konqi welcomes you to the KDE community!")
             wrapMode: Text.Wrap
             horizontalAlignment: Text.AlignHCenter
         }

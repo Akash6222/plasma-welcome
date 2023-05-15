@@ -574,16 +574,17 @@ msgstr "სისტემის მორგება"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux!"
+msgid "Welcome to KDE Plasma!"
 msgstr "მოგესალმებით KDE Plasma-სთან!"
 
 #: src/contents/ui/pages/Welcome.qml:16
 #, kde-kuit-format
 msgctxt "@info:usagetip"
 msgid ""
-"TCET Linux is GNU/Linux distribution, based on Arch Linux built for "
-"enhancing college infrastructure and promoting Linux in software "
-"engineering education "
+"Plasma is a free and open-source desktop environment created by KDE, an "
+"international software community of volunteers. The Plasma desktop "
+"environment is simple by default for a smooth experience, but powerful when "
+"needed to help you really get things done. We hope you love it!"
 msgstr ""
 "Plasma უფასო და ღია კოდის მქონე სამუშაო გარემოა, რომელიც KDE-ის, მოხალისე "
 "პროგრამისტების საერთაშორისო საზოგადოების მიერ შეიქმნა. Plasma-ის სამუშაო "
@@ -593,13 +594,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the Tcet Linux community"
+msgid "Learn more about the KDE community"
 msgstr "გაიგეთ მეტი KDE-ის საზოგადოების შესახებ"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!!"
+msgid "The KDE mascot Konqi welcomes you to the KDE community!"
 msgstr "KDE-ის თილისმა კონქსი მოგესალმებათ KDE-ის საძმოში!"
 
 #: src/main.cpp:44
