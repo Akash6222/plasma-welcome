@@ -30,7 +30,7 @@ target_link_libraries(tcet-welcome
 kconfig_add_kcfg_files(tcet-welcome GENERATE_MOC config.kcfgc)
 install(TARGETS tcet-welcome ${KDE_INSTALL_TARGETS_DEFAULT_ARGS})
 
-ecm_add_qml_module(PlasmaWelcomeModule URI "org.kde.plasma.welcome" NO_PLUGIN VERSION 1.0)
+ecm_add_qml_module(PlasmaWelcomeModule URI "org.kde.tcet.welcome" NO_PLUGIN VERSION 1.0)
 ecm_target_qml_sources(PlasmaWelcomeModule SOURCES qml/GenericPage.qml)
 ecm_target_qml_sources(PlasmaWelcomeModule SOURCES qml/KCM.qml)
 ecm_finalize_qml_module(PlasmaWelcomeModule DESTINATION ${KDE_INSTALL_QMLDIR})
