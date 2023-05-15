@@ -1,9 +1,9 @@
-# Translation of plasma-welcome to Norwegian Nynorsk
+# Translation of tcet-welcome to Norwegian Nynorsk
 #
 # Karl Ove Hufthammer <karl@huftis.org>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: plasma-welcome\n"
+"Project-Id-Version: tcet-welcome\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-03-03 03:04+0000\n"
 "PO-Revision-Date: 2023-01-25 21:41+0100\n"

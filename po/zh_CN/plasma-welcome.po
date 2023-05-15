@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Project: kdeorg\n"
 "X-Crowdin-Project-ID: 269464\n"
 "X-Crowdin-Language: zh-CN\n"
-"X-Crowdin-File: /kf5-stable/messages/plasma-welcome/plasma-welcome.pot\n"
+"X-Crowdin-File: /kf5-stable/messages/tcet-welcome/tcet-welcome.pot\n"
 "X-Crowdin-File-ID: 41647\n"
 
 #, kde-format

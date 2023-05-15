@@ -1,10 +1,10 @@
 # Copyright (C) YEAR This file is copyright:
-# This file is distributed under the same license as the plasma-welcome package.
+# This file is distributed under the same license as the tcet-welcome package.
 #
 # Kisaragi Hiu <mail@kisaragi-hiu.com>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: plasma-welcome\n"
+"Project-Id-Version: tcet-welcome\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-03-03 03:04+0000\n"
 "PO-Revision-Date: 2023-01-21 23:30+0900\n"

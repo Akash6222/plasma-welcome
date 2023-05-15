@@ -1,4 +1,4 @@
-# Slovenian translation of plasma-welcome.
+# Slovenian translation of tcet-welcome.
 # Copyright (C) 2022 KDE.
 # This file is distributed under the same license as the welcome-app package.
 #

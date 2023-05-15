@@ -26,17 +26,17 @@ GenericPage {
         Kirigami.UrlButton {
             Layout.topMargin: Kirigami.Units.largeSpacing
             text: i18nc("@action:button", "Find out what's new in Plasma %1", newPlasmaVersion)
-            url: "https://kde.org/announcements/plasma/5/" + root.newPlasmaVersion + ".0?source=plasma-welcome"
+            url: "https://kde.org/announcements/plasma/5/" + root.newPlasmaVersion + ".0?source=tcet-welcome"
         },
         Kirigami.UrlButton {
             Layout.topMargin: Kirigami.Units.largeSpacing
             text: i18nc("@action:button", "Help work on the next release")
-            url: "https://community.kde.org/Get_Involved?source=plasma-welcome"
+            url: "https://community.kde.org/Get_Involved?source=tcet-welcome"
         },
         Kirigami.UrlButton {
             Layout.topMargin: Kirigami.Units.largeSpacing
             text: i18nc("@action:button", "Make a donation")
-            url: "https://kde.org/community/donations?source=plasma-welcome"
+            url: "https://kde.org/community/donations?source=tcet-welcome"
         }
     ]
 

@@ -1,8 +1,8 @@
-# translation of plasma-welcome.po to Slovak
+# translation of tcet-welcome.po to Slovak
 # Roman Paholik <wizzardsk@gmail.com>, 2022.
 msgid ""
 msgstr ""
-"Project-Id-Version: plasma-welcome\n"
+"Project-Id-Version: tcet-welcome\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-03-03 03:04+0000\n"
 "PO-Revision-Date: 2022-09-21 19:06+0200\n"
