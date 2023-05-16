@@ -190,7 +190,7 @@
   <!--<url type="vcs-browser">https://invent.kde.org/plasma/TCET-welcome</url>-->
   <url type="donation">https://www.kde.org/community/donations/?app=welcome-center&amp;source=appdata</url>
   <content_rating type="oars-1.0"/>
-  <launchable type="desktop-id">org.kde.TCET-welcome.desktop</launchable>
+  <launchable type="desktop-id">org.kde.tcet-welcome.desktop</launchable>
   <project_group>KDE</project_group>
   <compulsory_for_desktop>KDE</compulsory_for_desktop>
   <releases>
