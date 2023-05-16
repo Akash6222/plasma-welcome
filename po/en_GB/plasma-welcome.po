@@ -575,8 +575,8 @@ msgstr "System Settings"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux!"
-msgstr "Welcome to Tcet Linux!"
+msgid "Welcome to TCET Linux!"
+msgstr "Welcome to TCET Linux!"
 
 #: src/contents/ui/pages/Welcome.qml:16
 #, kde-kuit-format
@@ -593,14 +593,14 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the Tcet Linux community"
+msgid "Learn more about the TCET Linux Community"
 msgstr "Learn more about the KDE community"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
-msgstr "The Tcet Linux welcomes you to the Tcet Open Source community!"
+msgid "The TCET Linux welcomes you to the TCET Open Source community"
+msgstr "The TCET Linux welcomes you to the TCET Open Source community!"
 
 #: src/main.cpp:44
 #, kde-format
@@ -611,8 +611,8 @@ msgstr "A welcome app for KDE Plasma"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux"
-msgstr "Welcome to Tcet Linux"
+msgid "Welcome to TCET Linux"
+msgstr "Welcome to TCET Linux"
 
 #: src/main.cpp:57
 #, kde-format
