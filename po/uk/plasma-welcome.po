@@ -593,7 +593,7 @@ msgstr "Системні параметри"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux!"
+msgid "Welcome to TCET Linux!"
 msgstr "Вітаємо у Плазмі KDE!"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -613,13 +613,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the Tcet Linux community"
+msgid "Learn more about the TCET Linux community"
 msgstr "Дізнатися більше про спільноту KDE"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
+msgid "The TCET Open Source welcomes you to the TCET Open Source community!"
 msgstr "Маскот KDE, Конкі, запрошує вас до спільноти KDE!"
 
 #: src/main.cpp:44
@@ -631,7 +631,7 @@ msgstr "Вітальна програма Плазми KDE"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux"
+msgid "Welcome to TCET Linux"
 msgstr "Вітаємо у Плазмі KDE"
 
 #: src/main.cpp:57

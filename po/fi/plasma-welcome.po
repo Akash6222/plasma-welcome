@@ -1,10 +1,10 @@
 # Copyright (C) YEAR This file is copyright:
-# This file is distributed under the same license as the tcet-welcome package.
+# This file is distributed under the same license as the TCET-welcome package.
 # Tommi Nieminen <translator@legisign.org>, 2022, 2023.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: tcet-welcome\n"
+"Project-Id-Version: TCET-welcome\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-03-03 03:04+0000\n"
 "PO-Revision-Date: 2023-04-20 12:42+0300\n"
@@ -577,7 +577,7 @@ msgstr "Järjestelmäasetukset"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux!"
+msgid "Welcome to TCET Linux!"
 msgstr "Tervetuloa KDE Plasmaan!"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -596,13 +596,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the Tcet Linux community"
+msgid "Learn more about the TCET Linux community"
 msgstr "Lue lisää KDE-yhteisöstä"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
+msgid "The TCET Open Source welcomes you to the TCET Open Source community!"
 msgstr "KDE:n Konqi-maskotti toivottaa sinut tervetulleeksi KDE-yhteisöön!"
 
 #: src/main.cpp:44
@@ -614,7 +614,7 @@ msgstr "Tervetulosovellus KDE Plasmaan"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux"
+msgid "Welcome to TCET Linux"
 msgstr "Tervetuloa KDE Plasmaan"
 
 #: src/main.cpp:57

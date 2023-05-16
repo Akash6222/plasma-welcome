@@ -5,11 +5,11 @@
 set(HAVE_KUSERFEEDBACK ${KUserFeedback_FOUND})
 configure_file(kuserfeedbacksettings.h.cmake ${CMAKE_CURRENT_BINARY_DIR}/kuserfeedbacksettings.h)
 
-add_executable(tcet-welcome main.cpp controller.cpp resources.qrc module.cpp)
+add_executable(TCET-welcome main.cpp controller.cpp resources.qrc module.cpp)
 
-target_compile_definitions(tcet-welcome PRIVATE "DISTRO_PAGE_PATH=\"${DISTRO_PAGE_PATH}\"")
+target_compile_definitions(TCET-welcome PRIVATE "DISTRO_PAGE_PATH=\"${DISTRO_PAGE_PATH}\"")
 
-target_link_libraries(tcet-welcome
+target_link_libraries(TCET-welcome
     Qt::Core
     Qt::Gui
     Qt::Network
@@ -27,10 +27,10 @@ target_link_libraries(tcet-welcome
     KF5::Service
     KF5::WindowSystem
 )
-kconfig_add_kcfg_files(tcet-welcome GENERATE_MOC config.kcfgc)
-install(TARGETS tcet-welcome ${KDE_INSTALL_TARGETS_DEFAULT_ARGS})
+kconfig_add_kcfg_files(TCET-welcome GENERATE_MOC config.kcfgc)
+install(TARGETS TCET-welcome ${KDE_INSTALL_TARGETS_DEFAULT_ARGS})
 
-ecm_add_qml_module(PlasmaWelcomeModule URI "org.kde.tcet.welcome" NO_PLUGIN VERSION 1.0)
+ecm_add_qml_module(PlasmaWelcomeModule URI "org.kde.TCET.welcome" NO_PLUGIN VERSION 1.0)
 ecm_target_qml_sources(PlasmaWelcomeModule SOURCES qml/GenericPage.qml)
 ecm_target_qml_sources(PlasmaWelcomeModule SOURCES qml/KCM.qml)
 ecm_finalize_qml_module(PlasmaWelcomeModule DESTINATION ${KDE_INSTALL_QMLDIR})

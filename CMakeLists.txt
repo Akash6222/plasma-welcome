@@ -27,7 +27,7 @@ include(ECMPoQmTools)
 include(ECMQmlModule)
 include(ECMDeprecationSettings)
 
-set(DISTRO_PAGE_PATH "/usr/share/tcet-welcome-extra-pages/" CACHE STRING "Path on disk to find custom pages")
+set(DISTRO_PAGE_PATH "/usr/share/TCET-welcome-extra-pages/" CACHE STRING "Path on disk to find custom pages")
 
 file(GLOB_RECURSE ALL_CLANG_FORMAT_SOURCE_FILES *.cpp *.h *.hpp *.c)
 kde_clang_format(${ALL_CLANG_FORMAT_SOURCE_FILES})
@@ -35,7 +35,7 @@ kde_configure_git_pre_commit_hook(CHECKS CLANG_FORMAT)
 
 ecm_setup_version(${PROJECT_VERSION}
     VARIABLE_PREFIX PLASMA_WELCOME
-    VERSION_HEADER "${CMAKE_CURRENT_BINARY_DIR}/src/tcet-welcome-version.h"
+    VERSION_HEADER "${CMAKE_CURRENT_BINARY_DIR}/src/TCET-welcome-version.h"
 )
 
 find_package(Qt${QT_MAJOR_VERSION} ${REQUIRED_QT_VERSION} REQUIRED COMPONENTS Core Gui Network Qml QuickControls2 Svg)
@@ -49,9 +49,9 @@ ecm_set_disabled_deprecation_versions(QT 5.15.2
 
 add_subdirectory(src)
 
-install(PROGRAMS org.kde.tcet-welcome.desktop DESTINATION ${KDE_INSTALL_APPDIR})
-install(FILES org.kde.tcet-welcome.desktop DESTINATION ${KDE_INSTALL_AUTOSTARTDIR})
-install(FILES org.kde.tcet-welcome.appdata.xml DESTINATION ${KDE_INSTALL_METAINFODIR})
+install(PROGRAMS org.kde.TCET-welcome.desktop DESTINATION ${KDE_INSTALL_APPDIR})
+install(FILES org.kde.TCET-welcome.desktop DESTINATION ${KDE_INSTALL_AUTOSTARTDIR})
+install(FILES org.kde.TCET-welcome.appdata.xml DESTINATION ${KDE_INSTALL_METAINFODIR})
 
 feature_summary(WHAT ALL INCLUDE_QUIET_PACKAGES FATAL_ON_MISSING_REQUIRED_PACKAGES)
 

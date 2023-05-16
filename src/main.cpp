@@ -16,7 +16,7 @@
 
 #include "config.h"
 #include "controller.h"
-#include "tcet-welcome-version.h"
+#include "TCET-welcome-version.h"
 
 #include "module.h"
 #include <KAboutData>
@@ -38,15 +38,15 @@ int main(int argc, char *argv[])
 
     QApplication app(argc, argv);
     QCoreApplication::setOrganizationName(QStringLiteral("KDE"));
-    QCoreApplication::setApplicationName(QStringLiteral("tcet-welcome"));
-    KLocalizedString::setApplicationDomain("tcet-welcome");
+    QCoreApplication::setApplicationName(QStringLiteral("TCET-welcome"));
+    KLocalizedString::setApplicationDomain("TCET-welcome");
 
     const QString description = i18nc("@info:usagetip", "A welcome app for KDE Plasma");
     KAboutData aboutData(
         // The program name used internally.
-        QStringLiteral("tcet-welcome"),
+        QStringLiteral("TCET-welcome"),
         // A displayable program name string.
-        i18nc("@title", "Welcome to Tcet Linux"),
+        i18nc("@title", "Welcome to TCET Linux"),
         // The program version string.
         QStringLiteral(PLASMA_WELCOME_VERSION_STRING),
         // Short description of what the app does.

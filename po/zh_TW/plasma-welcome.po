@@ -1,10 +1,10 @@
 # Copyright (C) YEAR This file is copyright:
-# This file is distributed under the same license as the tcet-welcome package.
+# This file is distributed under the same license as the TCET-welcome package.
 #
 # Kisaragi Hiu <mail@kisaragi-hiu.com>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: tcet-welcome\n"
+"Project-Id-Version: TCET-welcome\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-03-03 03:04+0000\n"
 "PO-Revision-Date: 2023-01-21 23:30+0900\n"
@@ -553,7 +553,7 @@ msgstr "系統設定"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux!"
+msgid "Welcome to TCET Linux!"
 msgstr "歡迎來到 KDE Plasma！"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -571,13 +571,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the Tcet Linux community"
+msgid "Learn more about the TCET Linux community"
 msgstr "瞭解更多有關 KDE 社群的資訊"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
+msgid "The TCET Open Source welcomes you to the TCET Open Source community!"
 msgstr "KDE 的吉祥物 Konqi 歡迎您來到 KDE 社群！"
 
 #: src/main.cpp:44
@@ -589,7 +589,7 @@ msgstr "一個 KDE Plasma 的歡迎用應用程式"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux"
+msgid "Welcome to TCET Linux"
 msgstr "歡迎來到 KDE Plasma"
 
 #: src/main.cpp:57

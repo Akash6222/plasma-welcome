@@ -1,8 +1,8 @@
-# translation of tcet-welcome.po to Slovak
+# translation of TCET-welcome.po to Slovak
 # Roman Paholik <wizzardsk@gmail.com>, 2022.
 msgid ""
 msgstr ""
-"Project-Id-Version: tcet-welcome\n"
+"Project-Id-Version: TCET-welcome\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-03-03 03:04+0000\n"
 "PO-Revision-Date: 2022-09-21 19:06+0200\n"
@@ -494,7 +494,7 @@ msgstr "Systémové nastavenia"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux!"
+msgid "Welcome to TCET Linux!"
 msgstr ""
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -509,13 +509,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the Tcet Linux community"
+msgid "Learn more about the TCET Linux community"
 msgstr ""
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
+msgid "The TCET Open Source welcomes you to the TCET Open Source community!"
 msgstr ""
 
 #: src/main.cpp:44
@@ -527,7 +527,7 @@ msgstr ""
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux"
+msgid "Welcome to TCET Linux"
 msgstr ""
 
 #: src/main.cpp:57

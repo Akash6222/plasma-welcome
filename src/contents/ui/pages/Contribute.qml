@@ -10,7 +10,7 @@ import QtQuick.Controls 2.15 as QQC2
 import QtQuick.Layouts 1.15
 import org.kde.kirigami 2.15 as Kirigami
 
-import org.kde.tcet.welcome 1.0
+import org.kde.TCET.welcome 1.0
 
 GenericPage {
     heading: i18nc("@title:window", "Get Involved")
@@ -21,7 +21,7 @@ GenericPage {
             id: link
             Layout.topMargin: Kirigami.Units.largeSpacing
             text: i18nc("@action:button", "Start Contributing!")
-            url: "https://community.kde.org/Get_Involved?source=tcet-welcome"
+            url: "https://community.kde.org/Get_Involved?source=TCET-welcome"
         }
     ]
 

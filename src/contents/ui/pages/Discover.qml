@@ -12,7 +12,7 @@ import org.kde.kirigami 2.15 as Kirigami
 import QtGraphicalEffects 1.15
 
 import org.kde.welcome 1.0
-import org.kde.tcet.welcome 1.0
+import org.kde.TCET.welcome 1.0
 
 GenericPage {
     heading: i18nc("@title:window", "Manage Software")

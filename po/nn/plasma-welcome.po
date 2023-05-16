@@ -1,9 +1,9 @@
-# Translation of tcet-welcome to Norwegian Nynorsk
+# Translation of TCET-welcome to Norwegian Nynorsk
 #
 # Karl Ove Hufthammer <karl@huftis.org>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: tcet-welcome\n"
+"Project-Id-Version: TCET-welcome\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-03-03 03:04+0000\n"
 "PO-Revision-Date: 2023-01-25 21:41+0100\n"
@@ -585,7 +585,7 @@ msgstr "Systemoppsett"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux!"
+msgid "Welcome to TCET Linux!"
 msgstr "Velkommen til KDE Plasma!"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -604,13 +604,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the Tcet Linux community"
+msgid "Learn more about the TCET Linux community"
 msgstr "Lær meir om KDE-fellesskapet"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
+msgid "The TCET Open Source welcomes you to the TCET Open Source community!"
 msgstr "KDE-maskoten Konqi ønskjer deg velkommen til KDE-fellesskapet!"
 
 #: src/main.cpp:44
@@ -622,7 +622,7 @@ msgstr "Velkomstsenter for KDE Plasma"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to Tcet Linux"
+msgid "Welcome to TCET Linux"
 msgstr "Velkommen til KDE Plasma"
 
 #: src/main.cpp:57
