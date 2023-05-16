@@ -1,10 +1,10 @@
 # Copyright (C) YEAR This file is copyright:
-# This file is distributed under the same license as the TCET-welcome package.
+# This file is distributed under the same license as the tcet-welcome package.
 #
 # A S Alam <aalam@satluj.org>, 2022.
 msgid ""
 msgstr ""
-"Project-Id-Version: TCET-welcome\n"
+"Project-Id-Version: tcet-welcome\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-03-03 03:04+0000\n"
 "PO-Revision-Date: 2022-11-19 06:05-0800\n"
@@ -495,7 +495,7 @@ msgstr "ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux!"
+msgid "Welcome to Tcet Linux!"
 msgstr ""
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -510,13 +510,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the TCET Linux community"
+msgid "Learn more about the Tcet Linux community"
 msgstr ""
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The TCET Open Source welcomes you to the TCET Open Source community!"
+msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
 msgstr ""
 
 #: src/main.cpp:44
@@ -528,7 +528,7 @@ msgstr ""
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux"
+msgid "Welcome to Tcet Linux"
 msgstr ""
 
 #: src/main.cpp:57

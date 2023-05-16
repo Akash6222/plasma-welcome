@@ -9,18 +9,18 @@ import QtQuick 2.15
 import QtQuick.Controls 2.15 as QQC2
 import QtQuick.Layouts 1.15
 import org.kde.kirigami 2.15 as Kirigami
-import org.kde.TCET.welcome 1.0
+import org.kde.tcet.welcome 1.0
 
 GenericPage {
-    heading: i18nc("@title", "Welcome to TCET Linux!")
+    heading: i18nc("@title", "Welcome to Tcet Linux!")
     description: xi18nc("@info:usagetip", "TCET Linux is GNU/Linux distribution, based on Arch Linux built for enhancing college infrastructure and promoting Linux in software engineering education.")
 
     topContent: [
         Kirigami.UrlButton {
             id: link
             Layout.topMargin: Kirigami.Units.largeSpacing
-            text: i18nc("@action:button", "Learn more about the TCET Linux community")
-            url: "https://opensource.TCETmumbai.in/docs/projects/TCET-linux/about-TCET-linux"
+            text: i18nc("@action:button", "Learn more about the Tcet Linux community")
+            url: "https://opensource.tcetmumbai.in/docs/projects/tcet-linux/about-tcet-linux"
         }
     ]
 
@@ -36,7 +36,7 @@ GenericPage {
             anchors.horizontalCenter: parent.horizontalCenter
             anchors.top: parent.bottom
             width: Math.round(parent.width * 0.75)
-            text: i18nc("@info", "The TCET Linux welcomes you to the TCET Open Source community!")
+            text: i18nc("@info", "The Tcet Linux welcomes you to the Tcet Open Source community!")
             wrapMode: Text.Wrap
             horizontalAlignment: Text.AlignHCenter
         }

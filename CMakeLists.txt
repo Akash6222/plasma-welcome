@@ -27,7 +27,7 @@ include(ECMPoQmTools)
 include(ECMQmlModule)
 include(ECMDeprecationSettings)
 
-set(DISTRO_PAGE_PATH "/usr/share/TCET-welcome-extra-pages/" CACHE STRING "Path on disk to find custom pages")
+set(DISTRO_PAGE_PATH "/usr/share/tcet-welcome-extra-pages/" CACHE STRING "Path on disk to find custom pages")
 
 file(GLOB_RECURSE ALL_CLANG_FORMAT_SOURCE_FILES *.cpp *.h *.hpp *.c)
 kde_clang_format(${ALL_CLANG_FORMAT_SOURCE_FILES})
@@ -35,7 +35,7 @@ kde_configure_git_pre_commit_hook(CHECKS CLANG_FORMAT)
 
 ecm_setup_version(${PROJECT_VERSION}
     VARIABLE_PREFIX PLASMA_WELCOME
-    VERSION_HEADER "${CMAKE_CURRENT_BINARY_DIR}/src/TCET-welcome-version.h"
+    VERSION_HEADER "${CMAKE_CURRENT_BINARY_DIR}/src/tcet-welcome-version.h"
 )
 
 find_package(Qt${QT_MAJOR_VERSION} ${REQUIRED_QT_VERSION} REQUIRED COMPONENTS Core Gui Network Qml QuickControls2 Svg)

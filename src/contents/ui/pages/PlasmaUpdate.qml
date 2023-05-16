@@ -11,7 +11,7 @@ import QtQuick.Layouts 1.15
 import org.kde.kirigami 2.15 as Kirigami
 
 import org.kde.welcome 1.0
-import org.kde.TCET.welcome 1.0
+import org.kde.tcet.welcome 1.0
 
 GenericPage {
     id: root
@@ -26,17 +26,17 @@ GenericPage {
         Kirigami.UrlButton {
             Layout.topMargin: Kirigami.Units.largeSpacing
             text: i18nc("@action:button", "Find out what's new in Plasma %1", newPlasmaVersion)
-            url: "https://kde.org/announcements/plasma/5/" + root.newPlasmaVersion + ".0?source=TCET-welcome"
+            url: "https://kde.org/announcements/plasma/5/" + root.newPlasmaVersion + ".0?source=tcet-welcome"
         },
         Kirigami.UrlButton {
             Layout.topMargin: Kirigami.Units.largeSpacing
             text: i18nc("@action:button", "Help work on the next release")
-            url: "https://community.kde.org/Get_Involved?source=TCET-welcome"
+            url: "https://community.kde.org/Get_Involved?source=tcet-welcome"
         },
         Kirigami.UrlButton {
             Layout.topMargin: Kirigami.Units.largeSpacing
             text: i18nc("@action:button", "Make a donation")
-            url: "https://kde.org/community/donations?source=TCET-welcome"
+            url: "https://kde.org/community/donations?source=tcet-welcome"
         }
     ]
 

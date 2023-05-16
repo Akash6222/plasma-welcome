@@ -10,21 +10,21 @@ Welcome Center is the perfect introduction to KDE Plasma! It can help you learn 
 
 There are two usage modes:
 - Run the app normally and it will show a welcome/onboarding wizard.
-- Run the app with the `--after-upgrade-to` argument to show a post-upgrade message. For example: `TCET-welcome --after-upgrade-to 5.25`.
+- Run the app with the `--after-upgrade-to` argument to show a post-upgrade message. For example: `tcet-welcome --after-upgrade-to 5.25`.
 
 
 ## Screenshots
-![First page](https://cdn.kde.org/screenshots/TCET-welcome/TCET-welcome-page-1.png)
+![First page](https://cdn.kde.org/screenshots/tcet-welcome/tcet-welcome-page-1.png)
 
-![Second page](https://cdn.kde.org/screenshots/TCET-welcome/TCET-welcome-page-2.png)
+![Second page](https://cdn.kde.org/screenshots/tcet-welcome/tcet-welcome-page-2.png)
 
-![Sixth page](https://cdn.kde.org/screenshots/TCET-welcome/TCET-welcome-page-6.png)
+![Sixth page](https://cdn.kde.org/screenshots/tcet-welcome/tcet-welcome-page-6.png)
 
 
 # Extending Welcome Center with custom pages
 Custom distro-specific pages can be embedded in the app, and will appear right before the "Get Involved" page. Only content that is safely skippable should be added, since the user can close the app at any time, potentially before they see your custom pages.
 
-To make custom pages visible to the app, place them in `/usr/share/TCET-welcome-extra-pages/`, prefixed with a number and a dash. For example if you define two pages with the following names:
+To make custom pages visible to the app, place them in `/usr/share/tcet-welcome-extra-pages/`, prefixed with a number and a dash. For example if you define two pages with the following names:
 
 - 01-WelcomeToDistro.qml
 - 02-InstallMediaCodecs.qml
@@ -96,7 +96,7 @@ If you find that your specific use case can't be supported with these tools, ple
 
 ## Example custom page
 
-Name this file `01-NateOS.qml` and place it in `/usr/share/TCET-welcome-extra-pages/`:
+Name this file `01-NateOS.qml` and place it in `/usr/share/tcet-welcome-extra-pages/`:
 
 ```
 /*
@@ -113,7 +113,7 @@ import org.kde.kirigami 2.15 as Kirigami
 import QtGraphicalEffects 1.15
 
 import org.kde.welcome 1.0
-import org.kde.TCET.welcome 1.0
+import org.kde.tcet.welcome 1.0
 
 GenericPage {
     heading: i18nc("@info:window", "Welcome to NateOS")

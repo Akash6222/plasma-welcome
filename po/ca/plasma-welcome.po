@@ -1,4 +1,4 @@
-# Translation of TCET-welcome.po to Catalan
+# Translation of tcet-welcome.po to Catalan
 # Copyright (C) 2022-2023 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
@@ -8,7 +8,7 @@
 # Antoni Bella Pérez <antonibella5@yahoo.com>, 2022.
 msgid ""
 msgstr ""
-"Project-Id-Version: TCET-welcome\n"
+"Project-Id-Version: tcet-welcome\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2023-03-03 03:04+0000\n"
 "PO-Revision-Date: 2023-01-24 09:41+0100\n"
@@ -589,7 +589,7 @@ msgstr "Arranjament del sistema"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux!"
+msgid "Welcome to Tcet Linux!"
 msgstr "Us donem la benvinguda al Plasma de KDE"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -609,13 +609,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the TCET Linux community"
+msgid "Learn more about the Tcet Linux community"
 msgstr "Apreneu-ne més pel que fa a la Comunitat KDE"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The TCET Open Source welcomes you to the TCET Open Source community!"
+msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
 msgstr "La mascota Konqui de KDE us dona la benvinguda a la Comunitat KDE!"
 
 #: src/main.cpp:44
@@ -627,7 +627,7 @@ msgstr "Una aplicació de benvinguda per al Plasma de KDE"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux"
+msgid "Welcome to Tcet Linux"
 msgstr "Us donem la benvinguda al Plasma de KDE"
 
 #: src/main.cpp:57

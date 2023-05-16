@@ -5,7 +5,7 @@
   SPDX-FileCopyrightText: 2022 Nate Graham <nate@kde.org>
 -->
 <component type="desktop">
-  <id>org.kde.TCET-welcome</id>
+  <id>org.kde.tcet-welcome</id>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0+</project_license>
   <name>Welcome Center</name>
@@ -95,7 +95,7 @@
   </description>
   <screenshots>
     <screenshot type="default">
-      <image>https://cdn.kde.org/screenshots/TCET-welcome/TCET-welcome-page-1.png</image>
+      <image>https://cdn.kde.org/screenshots/tcet-welcome/tcet-welcome-page-1.png</image>
       <caption>Welcome Center first page: introducing KDE Plasma</caption>
       <caption xml:lang="ar">الصفحة الأولى من مركز الترحيب: تقدم كِيدِي بلازما</caption>
       <caption xml:lang="ca">Primera pàgina del centre de benvinguda: presentació del Plasma de KDE</caption>
@@ -125,7 +125,7 @@
       <caption xml:lang="zh-TW">歡迎中心的第一頁：KDE Plasma 簡介</caption>
     </screenshot>
     <screenshot type="default">
-      <image>https://cdn.kde.org/screenshots/TCET-welcome/TCET-welcome-page-2.png</image>
+      <image>https://cdn.kde.org/screenshots/tcet-welcome/tcet-welcome-page-2.png</image>
       <caption>Welcome Center second page: how to install apps</caption>
       <caption xml:lang="ar">الصفحة الثانية من مركز الترحيب: كيف تثبت التطبيقات</caption>
       <caption xml:lang="ca">Segona pàgina del centre de benvinguda: com instal·lar aplicacions</caption>
@@ -155,7 +155,7 @@
       <caption xml:lang="zh-TW">歡迎中心的第二頁：如何安裝應用程式</caption>
     </screenshot>
     <screenshot type="default">
-      <image>https://cdn.kde.org/screenshots/TCET-welcome/TCET-welcome-page-6.png</image>
+      <image>https://cdn.kde.org/screenshots/tcet-welcome/tcet-welcome-page-6.png</image>
       <caption>Welcome Center sixth page: how to get involved</caption>
       <caption xml:lang="ar">الصفحة السادسة من مركز الترحيب: كيف يمكنك المشاركة</caption>
       <caption xml:lang="ca">Sisena pàgina del centre de benvinguda: com col·laborar</caption>
@@ -187,7 +187,7 @@
   </screenshots>
   <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?product=Welcome%20Center</url>
   <!--Uncomment when the latest version of AppStream ships, as this is a very new tag-->
-  <!--<url type="vcs-browser">https://invent.kde.org/plasma/TCET-welcome</url>-->
+  <!--<url type="vcs-browser">https://invent.kde.org/plasma/tcet-welcome</url>-->
   <url type="donation">https://www.kde.org/community/donations/?app=welcome-center&amp;source=appdata</url>
   <content_rating type="oars-1.0"/>
   <launchable type="desktop-id">org.kde.tcet-welcome.desktop</launchable>
