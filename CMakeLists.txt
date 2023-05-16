@@ -49,8 +49,8 @@ ecm_set_disabled_deprecation_versions(QT 5.15.2
 
 add_subdirectory(src)
 
-install(PROGRAMS org.kde.TCET-welcome.desktop DESTINATION ${KDE_INSTALL_APPDIR})
-install(FILES org.kde.TCET-welcome.desktop DESTINATION ${KDE_INSTALL_AUTOSTARTDIR})
+install(PROGRAMS org.kde.tcet-welcome.desktop DESTINATION ${KDE_INSTALL_APPDIR})
+install(FILES org.kde.tcet-welcome.desktop DESTINATION ${KDE_INSTALL_AUTOSTARTDIR})
 install(FILES org.kde.TCET-welcome.appdata.xml DESTINATION ${KDE_INSTALL_METAINFODIR})
 
 feature_summary(WHAT ALL INCLUDE_QUIET_PACKAGES FATAL_ON_MISSING_REQUIRED_PACKAGES)
