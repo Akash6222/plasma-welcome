@@ -31,7 +31,7 @@ GenericPage {
             cursorShape: Qt.PointingHandCursor
         }
         TapHandler {
-            onTapped: Controller.launchApp("galculator"); // Desktop file isn't namespaced, boo!
+            onTapped: Controller.launchApp("xfce4-settings-editor"); // Desktop file isn't namespaced, boo!
         }
 
         QQC2.ToolTip {
