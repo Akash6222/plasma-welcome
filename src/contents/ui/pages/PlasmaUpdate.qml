@@ -48,7 +48,7 @@ GenericPage {
         Kirigami.Icon {
             Layout.preferredWidth: root.iconSize
             Layout.preferredHeight: root.iconSize
-            source: "start-here-kde-plasma"
+            source: "welcome.png"
         }
 
         QQC2.Label {
