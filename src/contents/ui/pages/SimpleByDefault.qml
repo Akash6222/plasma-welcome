@@ -16,7 +16,7 @@ import org.kde.welcome 1.0
 
 GenericPage {
     heading: i18nc("@info:window", "Simple by Default")
-    description: xi18nc("@info:usagetip", "Plasma is designed to be simple and usable out of the box. Things are where you'd expect, and there is generally no need to configure anything before you can be comfortable and productive.<nl/><nl/>Should you feel the need to, you'll find what you need in the <application>Xfce4 Settings Manager</application> app.")
+    description: xi18nc("@info:usagetip", "Plasma is designed to be simple and usable out of the box. Things are where you'd expect, and there is generally no need to configure anything before you can be comfortable and productive.<nl/><nl/>Should you feel the need to, you'll find what you need in the <application>Settings Manager</application> app.")
 
     Kirigami.Icon {
         id: image
