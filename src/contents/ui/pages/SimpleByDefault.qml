@@ -53,7 +53,7 @@ GenericPage {
     Kirigami.Heading {
         anchors.horizontalCenter: parent.horizontalCenter
         anchors.top: image.bottom
-        text: i18nc("@title the name of the 'Xfce4 Settings Manager' app", "Settings Manager")
+        text: i18nc("@title the name of the 'Settings Manager' app", "Settings Manager")
         wrapMode: Text.WordWrap
         level: 3
     }
