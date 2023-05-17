@@ -36,7 +36,7 @@ GenericPage {
 
         QQC2.ToolTip {
             visible: hoverhandler.hovered
-            text: i18nc("@action:button", "Launch Xfce4 Settings Manager now")
+            text: i18nc("@action:button", "Launch Settings Manager now")
         }
 
         layer.enabled: true
@@ -53,7 +53,7 @@ GenericPage {
     Kirigami.Heading {
         anchors.horizontalCenter: parent.horizontalCenter
         anchors.top: image.bottom
-        text: i18nc("@title the name of the 'Xfce4 Settings Manager' app", "xfce4 settings manager")
+        text: i18nc("@title the name of the 'Xfce4 Settings Manager' app", "Settings Manager")
         wrapMode: Text.WordWrap
         level: 3
     }
