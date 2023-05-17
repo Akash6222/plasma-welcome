@@ -16,7 +16,7 @@ import org.kde.welcome 1.0
 
 GenericPage {
     heading: i18nc("@info:window", "Simple by Default")
-    description: xi18nc("@info:usagetip", "Plasma is designed to be simple and usable out of the box. Things are where you'd expect, and there is generally no need to configure anything before you can be comfortable and productive.<nl/><nl/>Should you feel the need to, you'll find what you need in the <application>xfce4-settings-manager</application> app.")
+    description: xi18nc("@info:usagetip", "Plasma is designed to be simple and usable out of the box. Things are where you'd expect, and there is generally no need to configure anything before you can be comfortable and productive.<nl/><nl/>Should you feel the need to, you'll find what you need in the <application>Xfce4 Settings Manager</application> app.")
 
     Kirigami.Icon {
         id: image
@@ -36,7 +36,7 @@ GenericPage {
 
         QQC2.ToolTip {
             visible: hoverhandler.hovered
-            text: i18nc("@action:button", "Launch System Settings now")
+            text: i18nc("@action:button", "Launch Xfce4 Settings Manager now")
         }
 
         layer.enabled: true
@@ -53,7 +53,7 @@ GenericPage {
     Kirigami.Heading {
         anchors.horizontalCenter: parent.horizontalCenter
         anchors.top: image.bottom
-        text: i18nc("@title the name of the 'System Settings' app", "xfce4-settings-manager")
+        text: i18nc("@title the name of the 'Xfce4 Settings Manager' app", "xfce4 settings manager")
         wrapMode: Text.WordWrap
         level: 3
     }
