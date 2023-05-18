@@ -159,7 +159,7 @@ Kirigami.ApplicationWindow {
         visible: false
 
         heading: i18nc("@title: window", "Feeling stuck or encountering issues?")
-        description: i18nc("@info:usagetip", "<nl/>For real-time assistance and direct communication, we invite you to join our Discord server. It's a vibrant community where you can engage with us and fellow TCET Linux users. Here, you can ask questions, discuss technical aspects, and connect with like-minded individuals who share your interests.Our team and community members are ready to provide guidance and address any concerns you may have.<nl/><nl/>Don't hesitate to join the conversation! We look forward to helping you and fostering an engaging community experience on our Discord server.")
+        description: i18nc("@info:usagetip", "<br>For real-time assistance and direct communication, we invite you to join our Discord server. It's a vibrant community where you can engage with us and fellow TCET Linux users. Here, you can ask questions, discuss technical aspects, and connect with like-minded individuals who share your interests.Our team and community members are ready to provide guidance and address any concerns you may have.<br><br>Don't hesitate to join the conversation! We look forward to helping you and fostering an engaging community experience on our Discord server.")
 
         Module {
             id: moduleFeedback
