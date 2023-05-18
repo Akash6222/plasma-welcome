@@ -14,14 +14,14 @@ import org.kde.tcet.welcome 1.0
 
 GenericPage {
     heading: i18nc("@title:window", "Join Us Today")
-    description: xi18nc("@info:usagetip", "TCET Linux is proudly affiliated with the TCET Open Source Community.The TCET Open Source Community is a collective of passionate individuals, developers, and enthusiasts who share a common goal of promoting and advancing open-source technologies.<nl/><nl/>As a part of the TCET Open Source Community, TCET Linux benefits from a diverse pool of talent and expertise. The community fosters collaboration, knowledge sharing, and innovation, enabling TCET Linux to continuously evolve and improve.<nl/><nl/>Join us in this vibrant community as we collectively shape the future of TCET Linux and drive the progress of open-source technologies. Together, we can make a meaningful impact on the world of computing and foster a culture of collaboration, transparency, and innovation.")
+    description: xi18nc("@info:usagetip", "<nl/>TCET Linux is proudly affiliated with the TCET Open Source Community.The TCET Open Source Community is a collective of passionate individuals, developers, and enthusiasts who share a common goal of promoting and advancing open-source technologies.<nl/><nl/>As a part of the TCET Open Source Community, TCET Linux benefits from a diverse pool of talent and expertise. The community fosters collaboration, knowledge sharing, and innovation, enabling TCET Linux to continuously evolve and improve.<nl/><nl/>Join us in this vibrant community as we collectively shape the future of TCET Linux and drive the progress of open-source technologies. Together, we can make a meaningful impact on the world of computing and foster a culture of collaboration, transparency, and innovation.")
 
     topContent: [
         Kirigami.UrlButton {
             id: link
             Layout.topMargin: Kirigami.Units.largeSpacing
             text: i18nc("@action:button", "Start Contributing!")
-            url: "https://community.kde.org/Get_Involved?source=tcet-welcome"
+            url: "https://github.com/tcet-opensource"
         }
     ]
 
