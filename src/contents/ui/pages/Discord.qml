@@ -30,7 +30,6 @@ GenericPage {
         anchors.verticalCenterOffset: -Kirigami.Units.gridUnit * 2
         height: Kirigami.Units.gridUnit * 16
         fillMode: Image.PreserveAspectFit
-        mipmap: true
         source: "dicord.png"
 
         HoverHandler {
