@@ -29,7 +29,7 @@ void Module::setPath(const QString &path)
     KPluginMetaData kcmMetaData(path);
     if (!kcmMetaData.isValid()) {
         // From the command line or DBus we usually get only the plugin id
-        if (KPluginMetaData data(QStringLiteral("plasma/kcms/xfce4settingsmanager/") + path); data.isValid()) {
+        if (KPluginMetaData data(QStringLiteral("plasma/kcms/xfce-settings-manager/") + path); data.isValid()) {
             kcmMetaData = data;
         } else if (KPluginMetaData altData(QStringLiteral("kcms/") + path); altData.isValid()) {
             // Also check the old "kcms" namespace
