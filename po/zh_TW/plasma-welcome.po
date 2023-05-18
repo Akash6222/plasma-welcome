@@ -61,7 +61,7 @@ msgstr "下一步(&N)"
 #: src/contents/ui/main.qml:161
 #, kde-format
 msgctxt "@title: window"
-msgid "Feeling stuck or encountering issues?"
+msgid "Share Anonymous Usage Information With KDE"
 msgstr "分享匿名使用量資訊給 KDE"
 
 #: src/contents/ui/main.qml:162

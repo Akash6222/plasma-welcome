@@ -65,7 +65,7 @@ msgstr "&Hurrengoa"
 #: src/contents/ui/main.qml:161
 #, kde-format
 msgctxt "@title: window"
-msgid "Feeling stuck or encountering issues?"
+msgid "Share Anonymous Usage Information With KDE"
 msgstr "Erabileraren informazio anonimoa KDErekin partekatzea"
 
 #: src/contents/ui/main.qml:162

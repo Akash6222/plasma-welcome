@@ -62,7 +62,7 @@ msgstr "ਅੱਗੇ(&N)"
 #: src/contents/ui/main.qml:161
 #, kde-format
 msgctxt "@title: window"
-msgid "Feeling stuck or encountering issues?"
+msgid "Share Anonymous Usage Information With KDE"
 msgstr "ਵਰਤਣ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਅਣਪਛਾਤੇ ਰੂਪ ਵਿੱਚ KDE ਨਾਲ ਸਾਂਝਾ ਕਰੋ"
 
 #: src/contents/ui/main.qml:162
