@@ -158,7 +158,7 @@ msgstr "Sýna %1 í Discover"
 #: src/contents/ui/pages/Donate.qml:15
 #, kde-format
 msgctxt "@title:window"
-msgid "Support Your Freedom"
+msgid "Support Us!"
 msgstr "Styddu við frelsið þitt"
 
 #: src/contents/ui/pages/Donate.qml:16

@@ -176,7 +176,7 @@ msgstr "%1-ის Discover-ში ჩვენება"
 #: src/contents/ui/pages/Donate.qml:15
 #, kde-format
 msgctxt "@title:window"
-msgid "Support Your Freedom"
+msgid "Support Us!"
 msgstr "მხარი დაუჭირეთ თქვენს თავისუფლებას"
 
 #: src/contents/ui/pages/Donate.qml:16

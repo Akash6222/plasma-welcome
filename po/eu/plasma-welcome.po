@@ -178,7 +178,7 @@ msgstr "Erakutsi «%1» «Discover»ren"
 #: src/contents/ui/pages/Donate.qml:15
 #, kde-format
 msgctxt "@title:window"
-msgid "Support Your Freedom"
+msgid "Support Us!"
 msgstr "Eman babesa zure askatasunari"
 
 #: src/contents/ui/pages/Donate.qml:16

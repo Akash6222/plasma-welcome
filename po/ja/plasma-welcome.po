@@ -172,7 +172,7 @@ msgstr "Discover で %1 を表示"
 #: src/contents/ui/pages/Donate.qml:15
 #, kde-format
 msgctxt "@title:window"
-msgid "Support Your Freedom"
+msgid "Support Us!"
 msgstr "自由のために"
 
 #: src/contents/ui/pages/Donate.qml:16

@@ -174,7 +174,7 @@ msgstr "Mostrar o %1 no Discover"
 #: src/contents/ui/pages/Donate.qml:15
 #, kde-format
 msgctxt "@title:window"
-msgid "Support Your Freedom"
+msgid "Support Us!"
 msgstr "Apoiar a sua Liberdade"
 
 #: src/contents/ui/pages/Donate.qml:16

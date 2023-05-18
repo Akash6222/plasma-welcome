@@ -180,7 +180,7 @@ msgstr "Vis %1 i Discover"
 #: src/contents/ui/pages/Donate.qml:15
 #, kde-format
 msgctxt "@title:window"
-msgid "Support Your Freedom"
+msgid "Support Us!"
 msgstr "Støtt fridomen din"
 
 # Unødvendig å nemna skattefrådrag for tyske borgarar. Dei færraste av dei bruka KDE på nynorsk! (Viss det vert skattefrådrag for fleire land, kan me eventuelt ta det inn igjen).

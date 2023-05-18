@@ -167,7 +167,7 @@ msgstr "在 Discover 中顯示 %1"
 #: src/contents/ui/pages/Donate.qml:15
 #, kde-format
 msgctxt "@title:window"
-msgid "Support Your Freedom"
+msgid "Support Us!"
 msgstr "支援您的自由"
 
 #: src/contents/ui/pages/Donate.qml:16
