@@ -585,7 +585,7 @@ msgstr "Sistem Ayarları"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux!"
+msgid "Welcome to Tcet Linux!"
 msgstr "KDE Plasma'ya Hoş Geldiniz"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -605,13 +605,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the TCET Linux Community"
+msgid "Learn more about the Tcet Linux community"
 msgstr "KDE topluluğu hakkında daha fazla bilgi al"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The TCET Linux welcomes you to the TCET Open Source community"
+msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
 msgstr "KDE maskotu Konqi, sizi KDE topluluğuna buyur ediyor!"
 
 #: src/main.cpp:44
@@ -623,7 +623,7 @@ msgstr "KDE Plasma için bir karşılama uygulaması"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux"
+msgid "Welcome to Tcet Linux"
 msgstr "KDE Plasma'ya hoş geldiniz"
 
 #: src/main.cpp:57

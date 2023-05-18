@@ -589,7 +589,7 @@ msgstr "Sistemaren ezarpenak"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux!"
+msgid "Welcome to Tcet Linux!"
 msgstr "Ongietorri KDE Plasmara!"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -609,13 +609,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the TCET Linux Community"
+msgid "Learn more about the Tcet Linux community"
 msgstr "Jakizu gehiago KDE komunitateari buruz"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The TCET Linux welcomes you to the TCET Open Source community"
+msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
 msgstr "KDEren maskota «Konqi»k KDE komunitatera ongietorria ematen dizu!"
 
 #: src/main.cpp:44
@@ -627,7 +627,7 @@ msgstr "KDE Plamara ongietorria emateko aplikazio bat"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux"
+msgid "Welcome to Tcet Linux"
 msgstr "Ongietorri KDE Plasmara"
 
 #: src/main.cpp:57

@@ -577,7 +577,7 @@ msgstr "Järjestelmäasetukset"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux!"
+msgid "Welcome to Tcet Linux!"
 msgstr "Tervetuloa KDE Plasmaan!"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -596,13 +596,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the TCET Linux Community"
+msgid "Learn more about the Tcet Linux community"
 msgstr "Lue lisää KDE-yhteisöstä"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The TCET Linux welcomes you to the TCET Open Source community"
+msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
 msgstr "KDE:n Konqi-maskotti toivottaa sinut tervetulleeksi KDE-yhteisöön!"
 
 #: src/main.cpp:44
@@ -614,7 +614,7 @@ msgstr "Tervetulosovellus KDE Plasmaan"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux"
+msgid "Welcome to Tcet Linux"
 msgstr "Tervetuloa KDE Plasmaan"
 
 #: src/main.cpp:57

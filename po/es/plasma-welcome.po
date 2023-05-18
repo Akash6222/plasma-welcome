@@ -590,7 +590,7 @@ msgstr "Preferencias del sistema"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux!"
+msgid "Welcome to Tcet Linux!"
 msgstr "¡Bienvenido a KDE Plasma!"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -610,13 +610,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the TCET Linux Community"
+msgid "Learn more about the Tcet Linux community"
 msgstr "Conozca más sobre la comunidad KDE"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The TCET Linux welcomes you to the TCET Open Source community"
+msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
 msgstr "¡Konqi, la mascota de KDE, le da la bienvenida a la comunidad KDE!"
 
 #: src/main.cpp:44
@@ -628,7 +628,7 @@ msgstr "Una aplicación de bienvenida para KDE Plasma"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux"
+msgid "Welcome to Tcet Linux"
 msgstr "Bienvenido a KDE Plasma"
 
 #: src/main.cpp:57

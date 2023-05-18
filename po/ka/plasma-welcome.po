@@ -574,7 +574,7 @@ msgstr "სისტემის მორგება"
 #: src/contents/ui/pages/Welcome.qml:15
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux!"
+msgid "Welcome to Tcet Linux!"
 msgstr "მოგესალმებით KDE Plasma-სთან!"
 
 #: src/contents/ui/pages/Welcome.qml:16
@@ -593,13 +593,13 @@ msgstr ""
 #: src/contents/ui/pages/Welcome.qml:22
 #, kde-format
 msgctxt "@action:button"
-msgid "Learn more about the TCET Linux Community"
+msgid "Learn more about the Tcet Linux community"
 msgstr "გაიგეთ მეტი KDE-ის საზოგადოების შესახებ"
 
 #: src/contents/ui/pages/Welcome.qml:39
 #, kde-format
 msgctxt "@info"
-msgid "The TCET Linux welcomes you to the TCET Open Source community"
+msgid "The Tcet Open Source welcomes you to the Tcet Open Source community!"
 msgstr "KDE-ის თილისმა კონქსი მოგესალმებათ KDE-ის საძმოში!"
 
 #: src/main.cpp:44
@@ -611,7 +611,7 @@ msgstr "მისალმების აპი KDE Plasma-სთვის"
 #: src/main.cpp:49
 #, kde-format
 msgctxt "@title"
-msgid "Welcome to TCET Linux"
+msgid "Welcome to Tcet Linux"
 msgstr "მოგესალმებით KDE Plasma-ში"
 
 #: src/main.cpp:57
