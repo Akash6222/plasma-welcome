@@ -59,7 +59,7 @@ msgstr "Segui&nte"
 #: src/contents/ui/main.qml:161
 #, kde-format
 msgctxt "@title: window"
-msgid "Share Anonymous Usage Information With KDE"
+msgid "Feeling stuck or encountering issues?"
 msgstr "Partilha de Informações Anónimas de Utilização com o KDE"
 
 #: src/contents/ui/main.qml:162

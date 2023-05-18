@@ -65,7 +65,7 @@ msgstr "&Weiter"
 #: src/contents/ui/main.qml:161
 #, kde-format
 msgctxt "@title: window"
-msgid "Share Anonymous Usage Information With KDE"
+msgid "Feeling stuck or encountering issues?"
 msgstr "Anonyme Nutzungsstatistiken an KDE übermitteln"
 
 #: src/contents/ui/main.qml:162
