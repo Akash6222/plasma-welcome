@@ -13,7 +13,7 @@ import org.kde.tcet.welcome 1.0
 
 GenericPage {
     heading: i18nc("@title:window", "Support Us!")
-    description: xi18nc("@info:usagetip", "<nl/>By donating to TCET Linux, you can help us expand our resources and achieve even greater heights. Your financial donations play a vital role in funding essential aspects such as development initiatives, hardware and serve maintenannce, and potential employment opportunities. Every contribution bring us closenr to our vision of delivering an exceptional Linux experiencne.")
+    description: xi18nc("@info:usagetip", "<nl/By donating to TCET Linux, you can help us expand our resources and achieve even greater heights. Your financial donations play a vital role in funding essential aspects such as development initiatives, hardware and serve maintenannce, and potential employment opportunities. Every contribution bring us closenr to our vision of delivering an exceptional Linux experiencne.<nl/><nl/>Together,let's shape the future of TCET Linux and ensure that it continues to flourish as a user-friendly and community-driven Linux distribution.")
 
     topContent: [
         Kirigami.UrlButton {
