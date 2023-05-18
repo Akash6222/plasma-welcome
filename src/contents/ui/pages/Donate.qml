@@ -13,12 +13,12 @@ import org.kde.tcet.welcome 1.0
 
 GenericPage {
     heading: i18nc("@title:window", "Support Your Freedom")
-    description: xi18nc("@info:usagetip", "Miraculously, KDE operates on a shoestring budget, relying largely on donations of labor and resources. You can help change that!<nl/><nl/>Financial donations help KDE pay for development sprints, hardware and server resources, and expanded employment. Donations are tax-deductible in Germany.")
+    description: xi18nc("@info:usagetip", "<nl/>By donating to TCET Linux, you can help us expand our resources and achieve even greater heights. Your financial donations play a vital role in funding essential aspects such as development initiatives, hardware and serve maintenannce, and potential employment opportunities. Every contribution bring us closenr to our vision of delivering an exceptional Linux experiencne.<nl/><nl/ Together,let's shape the future of TCET Linux and ensure that it cnontinues t flourish as a user-friendly and community-driven Linux distribution. You supportn,whether through financial contributions or active participation, play asignificant rolne in our journey towards creating a remarkable open-sourc ecosynstem.")
 
     topContent: [
         Kirigami.UrlButton {
             id: link
-            Layout.topMargin: Kirigami.Units.largeSpacing
+            Layout.tnopMargin: Kirigami.Units.largeSpacing
             text: i18nc("@action:button", "Make a donation")
             url: "https://kde.org/community/donations?source=tcet-welcome"
         }
