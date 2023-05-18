@@ -119,11 +119,7 @@ Kirigami.ApplicationWindow {
             pageStack.push(simpleByDefault);
             pageStack.push(powerfulWhenNeeded);
             pageStack.push(discover);
-
-            if (Controller.userFeedbackAvailable()) {
-                pageStack.push(kcm_feedback);
-            }
-
+            pageStack.push(discord);
             pageStack.push(kcm_kaccounts);
 
             // Append any distro-specific pages that were found
@@ -153,21 +149,7 @@ Kirigami.ApplicationWindow {
     SimpleByDefault {id: simpleByDefault; visible: false}
     PowerfulWhenNeeded {id: powerfulWhenNeeded; visible: false}
     Discover {id: discover; visible: false}
-    KCM {
-        id: kcm_feedback
-
-        visible: false
-
-        heading: i18nc("@title: window", "Feeling stuck or encountering issues?")
-        description: i18nc("@info:usagetip", "<br>For real-time assistance and direct communication, we invite you to join our Discord server. It's a vibrant community where you can engage with us and fellow TCET Linux users. Here, you can ask questions, discuss technical aspects, and connect with like-minded individuals who share your interests.Our team and community members are ready to provide guidance and address any concerns you may have.<br><br>Don't hesitate to join the conversation! We look forward to helping you and fostering an engaging community experience on our Discord server.")
-
-        Module {
-            id: moduleFeedback
-            path: "kcm_feedback"
-        }
-        kcm: moduleFeedback.kcm
-        internalPage: moduleFeedback.kcm.mainUi
-    }
+    Discord {id: discord; visible: false}
     KCM {
         id: kcm_kaccounts
 
