@@ -22,7 +22,7 @@ There are two usage modes:
 
 
 # Extending Welcome Center with custom pages
-Custom distro-specific pages can be embedded in the app, and will appear right before the "Get Involved" page. Only content that is safely skippable should be added, since the user can close the app at any time, potentially before they see your custom pages.
+Custom distro-specific pages can be embedded in the app, and will appear right before the "Join Us Today" page. Only content that is safely skippable should be added, since the user can close the app at any time, potentially before they see your custom pages.
 
 To make custom pages visible to the app, place them in `/usr/share/tcet-welcome-extra-pages/`, prefixed with a number and a dash. For example if you define two pages with the following names:
 
