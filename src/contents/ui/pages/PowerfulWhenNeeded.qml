@@ -24,7 +24,6 @@ GenericPage {
 
         anchors {
             top: parent.top
-            topMargin: Kirigami.Units.largeSpacing
             left: parent.left
             right: parent.right
         }
