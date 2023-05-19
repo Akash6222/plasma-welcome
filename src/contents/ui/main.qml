@@ -155,7 +155,7 @@ Kirigami.ApplicationWindow {
 
         visible: false
 
-        heading: i18nc("@title: window", "Connect Your Online Accounts")
+        heading: i18nc("@title: window", "Connect Your Online Account")
         description: i18nc("@info:usagetip", "This will let you access their content in KDE apps. You can set it up in System Settings, and here too.")
         showSeparator: true
 
