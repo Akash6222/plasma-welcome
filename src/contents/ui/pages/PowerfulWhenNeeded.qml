@@ -17,7 +17,7 @@ import org.kde.welcome 1.0
 
 GenericPage {
     heading: i18nc("@info:window", "What's inside?")
-    description: xi18nc("@info:usagetip", "<nl/>TCET Linux, based on Arch Linux with the XFCE environment, offers a streamlined and efficient user experience. It provides a lightweight and customizable desktop environment, optimizing productivity and responsiveness. With its user-friendly interface, extensive configurability, and vast software availability from Arch Linux repositories, TCET Linux empowers users to tailor their computing environment to their specific needs.<nl/><nl/>Enjoy a fast and efficient workflow with the power of Arch Linux and the simplicity of XFCE in TCET Linux.")
+    description: xi18nc("@info:usagetip", "<nl/>TCET Linux, based on Arch Linux with the XFCE environment, offers a streamlined and efficient user experience. It provides a lightweight and customizable desktop environment, optimizing productivity and responsiveness. With its user-friendly interface, extensive configurability, and vast software availability from Arch Linux repositories.<nl/><nl/>Enjoy a fast and efficient workflow with the power of Arch Linux and the simplicity of XFCE in TCET Linux.")
 
     ColumnLayout {
         id: layout
@@ -28,7 +28,7 @@ GenericPage {
             left: parent.left
             right: parent.right
         }
-        spacing: Kirigami.Units.largeSpacing * 6
+        spacing: Kirigami.Units.largeSpacing * 4
 
         GridLayout {
             id: grid
