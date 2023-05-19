@@ -28,7 +28,7 @@ GenericPage {
             left: parent.left
             right: parent.right
         }
-        spacing: Kirigami.Units.largeSpacing * 1
+        spacing: 0
 
         GridLayout {
             id: grid
