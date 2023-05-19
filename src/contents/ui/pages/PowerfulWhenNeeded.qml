@@ -16,8 +16,8 @@ import org.kde.welcome 1.0
 
 
 GenericPage {
-    heading: i18nc("@info:window", "Powerful When Needed")
-    description: xi18nc("@info:usagetip", "Plasma is an extremely feature-rich environment, designed to super-charge your productivity! Here is just a smattering of the things it can do for you:")
+    heading: i18nc("@info:window", "What's inside?")
+    description: xi18nc("@info:usagetip", "<nl/>TCET Linux, based on Arch Linux with the XFCE environment, offers a streamlined and efficient user experience. It provides a lightweight and customizable desktop environment, optimizing productivity and responsiveness. With its user-friendly interface, extensive configurability, and vast software availability from Arch Linux repositories, TCET Linux empowers users to tailor their computing environment to their specific needs.<nl/><nl/>Enjoy a fast and efficient workflow with the power of Arch Linux and the simplicity of XFCE in TCET Linux.")
 
     ColumnLayout {
         id: layout
