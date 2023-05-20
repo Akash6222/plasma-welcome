@@ -106,7 +106,7 @@ GenericPage {
         }
 
         Kirigami.UrlButton {
-            text: i18nc("@action:button", "<br>Learn about more Plasma features")
+            text: i18nc("@action:button", "Learn about more Plasma features")
             url: "https://userbase.kde.org/Plasma?source=tcet-welcome"
         }
     }
