@@ -26,8 +26,6 @@ include(ECMGenerateHeaders)
 include(ECMPoQmTools)
 include(ECMQmlModule)
 
-set(DISTRO_PAGE_PATH "/usr/share/tcet-welcome-extra-pages/" CACHE STRING "Path on disk to find custom pages")
-
 file(GLOB_RECURSE ALL_CLANG_FORMAT_SOURCE_FILES *.cpp *.h *.hpp *.c)
 kde_clang_format(${ALL_CLANG_FORMAT_SOURCE_FILES})
 
