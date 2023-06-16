@@ -37,10 +37,6 @@ ecm_setup_version(${PROJECT_VERSION}
 )
 
 
-ecm_set_disabled_deprecation_versions(QT 5.15.2
-    KF 5.101
-)
-
 add_subdirectory(src)
 
 install(PROGRAMS org.kde.tcet-welcome.desktop DESTINATION ${KDE_INSTALL_APPDIR})
