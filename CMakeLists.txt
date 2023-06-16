@@ -25,7 +25,6 @@ include(ECMSetupVersion)
 include(ECMGenerateHeaders)
 include(ECMPoQmTools)
 include(ECMQmlModule)
-include(ECMDeprecationSettings)
 
 set(DISTRO_PAGE_PATH "/usr/share/tcet-welcome-extra-pages/" CACHE STRING "Path on disk to find custom pages")
 
