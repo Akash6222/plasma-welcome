@@ -6,6 +6,7 @@
 
 A Guided Setup Experience For TCET Linux
 
+
 TCET Welcome is the perfect introduction to KDE Plasma! It can help you learn how to connect to the internet, install apps, customize the system, and more!
 
 There are two usage modes:
